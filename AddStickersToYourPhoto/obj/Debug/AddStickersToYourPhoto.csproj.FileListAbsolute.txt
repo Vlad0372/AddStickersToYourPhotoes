@@ -1,0 +1,48 @@
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.exe.config
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.exe
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.pdb
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\MainWindow.g.cs
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\App.g.cs
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto_MarkupCompile.cache
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto_MarkupCompile.lref
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\MainWindow.baml
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.g.resources
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.exe
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.pdb
+C:\Users\Vladislav\Desktop\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.exe.config
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.exe
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.pdb
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\MainWindow.g.cs
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\App.g.cs
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto_MarkupCompile.cache
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto_MarkupCompile.lref
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\MainWindow.baml
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.g.resources
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.exe
+C:\Users\Vladislav\Desktop\PO (4 s)\PROG\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.pdb
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.exe.config
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.exe
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\bin\Debug\AddStickersToYourPhoto.pdb
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\MainWindow.g.cs
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\App.g.cs
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto_MarkupCompile.cache
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto_MarkupCompile.lref
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\MainWindow.baml
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.g.resources
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.exe
+C:\Users\Vladislav\Desktop\possible repos\WPF_project\AddStickersToYourPhoto\AddStickersToYourPhoto\obj\Debug\AddStickersToYourPhoto.pdb
